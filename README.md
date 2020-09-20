@@ -1,4 +1,7 @@
 # actions_build_ErfanGSIs  
+原作者：Github@together08
+奶牛快传脚本上传部分：GitHub@Mikubill
+整合（其实就是复制黏贴）：Github@bluboy-official
 
 ## 一个基于Github Actions制作的自动跑ErfanGSI的脚本。 
 ### 步骤如下： 
