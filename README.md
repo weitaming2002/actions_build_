@@ -15,6 +15,8 @@
 
 ### 注意：由于上传artifacts的时候测试会卡BUG，于是决定改成上传到日本的BitSend（bitsend.jp）需要Fq。
 
+bluboy：事实上好像bitsend时不时抽风，fq也未必有用，所以我改用了Mikubill佬的奶牛快传脚本来替换这一步，目测可行
+
 ## 附：ErfanGSI支持的ROM ##
 > ROM_NAME里填一摸一样的，下的ROM也要一样；Generic是（类）原生的意思
 ### 9 Pie： ### 
