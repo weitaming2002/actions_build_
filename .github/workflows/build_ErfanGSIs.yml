@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16xs/8.1.5.0/cn/20200911100700/08868cc1/update.zip
-  ROM_NAME: fly
+  ROM_NAME: flyme
   TZ: Asia/Shanghai
 
 jobs:
